@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 204 39" width="204" height="39">
+	<defs>
+		<image width="204" height="39" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMwAAAAnAQMAAAB5bzXwAAAAAXNSR0IB2cksfwAAAANQTFRFNzc3ruTL9AAAABJJREFUeJxjYBgFo2AUjAIsAAAEHQABZh3UDAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="banner">
+		<use id="Layer 1 copy" href="#img1" x="0" y="0" />
+	</g>
+</svg>
